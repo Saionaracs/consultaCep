@@ -23,7 +23,7 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de 
 - BrasilAPI — API de consulta de CEP
 - Git e GitHub
   
-##Como executar
+## Como executar
 
 - Instale o Python.
 - Clone este repositório.
