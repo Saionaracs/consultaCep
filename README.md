@@ -7,6 +7,7 @@ Este projeto consiste em uma aplicação de linha de comando desenvolvida em Pyt
 O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de programação e aprender a consumir APIs.
 
 ## Funcionalidades
+
 - Solicitação de CEP ao usuário.
 - Remoção do hífen informado no CEP.
 - Validação do formato do CEP.
