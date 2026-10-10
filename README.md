@@ -35,7 +35,7 @@ O projeto foi desenvolvido com o objetivo de praticar conceitos fundamentais de 
 
 Durante o desenvolvimento, pratiquei requisições HTTP com o método GET, interpretação de respostas JSON, estruturas condicionais, laços de repetição, validação de dados e tratamento de respostas da API.
 
-Próximas melhorias
+## Próximas melhorias
 - Tratar erros de conexão com a API.
 - Melhorar o tratamento de campos de endereço sem informação.
 - Aprimorar a experiência de interação no terminal.
