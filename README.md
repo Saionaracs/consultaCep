@@ -1,8 +1,8 @@
 # consultaCep
 
-// Consulta de CEP em Python
+Consulta de CEP em Python
 
-//Sobre o projeto
+Sobre o projeto
 
 Este projeto consiste em uma aplicação de linha de comando desenvolvida em Python para consultar informações de endereços a partir de um CEP, utilizando a API pública BrasilAPI.
 
