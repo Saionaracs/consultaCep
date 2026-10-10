@@ -34,3 +34,8 @@ Próximas melhorias
 Tratar erros de conexão com a API.
 Melhorar o tratamento de campos de endereço sem informação.
 Aprimorar a experiência de interação no terminal.
+
+Próximas melhorias
+Tratar erros de conexão com a API.
+Melhorar o tratamento de campos de endereço sem informação.
+Aprimorar a experiência de interação no terminal.
